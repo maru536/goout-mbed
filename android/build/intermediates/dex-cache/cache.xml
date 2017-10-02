@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\736d49da219918d251df813b0b3449b2864a295a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_c186160269257d5246637d9e5164644dde0f2081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\0bef5f9828f54853451f025d1b3d4ec2b9e8633e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_32e0f841b66f207eda97681a0247d2af5ccb5341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\162023492b97ac49e8524f3c7f797294017311b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_73d1899da8f1b67468035526f6edbcc433ea6be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\okhttp-3.2.0_dbe95e05f069891bd54ad50403cc5731ffdd0dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\f9459d6e81359e2d45dbb0a4ffb6b909b595f892\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_fc701776ad0c8ea0309ae682db5d571f2136ded0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\3bf2ec72791db286a1120347b1dabf8e3203d26f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_5aa9422521eacef7b60231e4c2894989d9d2b71d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\e6f6405a16ec0054808ab65bd1071083cbc69b00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_91a59544bf3c80d92922cbe53be965ba86bd52f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\support-annotations-25.1.0_bf32432802345331416811286c2c52be7ce2e398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\1941efe9b174daa52071533ff9df0f90d96275f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_7273b19d8c319bf447638c479ca6a5d50b89e0f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\6e24740bbb6bb70cfb87b8dc17ecb88aa9941d40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_30606da6a42131ed4188e3bd9bd56760e21c0f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\98b29bb89af19a541efef749caee054549ad9e9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_e74c4e5b56b63c5710945c2f5870c061f9909c87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87cb387cc067310edfa967d0dad05ec55b71116c">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45b950431727adee3b62d2f61745f309fbb1d746\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\0584ef1e7416fd7448ef483cf1329142d3994b03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_dfa6a6467e5aa57c1ff650b45fe6581a9187e3ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\a4a4e4a836e98135ddc7e401b44be8f2520b78ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_0ff3f9594afb7cfaccc2d782b903107c4229f68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\1016ec81c23fbc7a85174b0904209cb1b32536fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_5bc81be91e6e91134ede2f1e6c243d6eb07a8501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\b4cea9710d22ab48f47a2245532da448cd7cd0ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_5e4e958234a6e187c4ca41624e581339f7a3d3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\e62f3fd40516070e9f14d6ac49a68528ecd66b56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_b0adaa6d8bc61974e9c0f03dd757d681aa1a8642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\cfdae8ac9e091af1ec12d958e0ceb02b61a823ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_e9f0112356e4e66cb7af4e2f0995a244d4f98f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\a67e85cd498819787ca0f57b521b99d180947e5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_8d38b24d3f30fc0e48e55044075adc9da139a44e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\2c79d401b363a6ffad7b5d79673ee83c0ca0814c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_ae708d97ee4618690a265b3ac9e8c5384e5c4187.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e5fc33eeaceb62af73c6b23a9ff50641f4284ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\feb3dec4030f3695ddae680352ce7b2a7c5ec1af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_0ce461744d416ca4bd5ba4a342af892c8ddff582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\ddea3ccddfe8a5039fa1cadf057825a3571121b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_0d4fbb1874ddc5611a24629fd23331a7315564b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\771616b7f3a124815c6eaa6a9bd4d91f1584bbbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_7c8820d8a3b7d382abc36f80859b5d545aefd99e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\5dba04b1bd4058a4dff4df88dc5af94cee7ab3ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_60ab2cc5775690dbc2e66a3e1d4aed6fdc5ff646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_560e28fc8bd3d8acc61de8bc63dd3c2819c6fff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\95b810df6a6a40291b2460a4524c8640c68b260e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_acb922d11b5c636f1f3c9187d0b325e54ca91bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\73b493bb2cbb5c9755b3598c8d88b90a5a870839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_1b821ef0d0e9f21a9b6227842577d1ac8f2f80c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.android\build-cache\a818cd23e0c289072ca240761d7e2c8d54034888\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\classes_34f0f2319b79ce87be44006bb1df72e51564d12f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maru5\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\maru5\Downloads\goout-master\goout-master\android\app\build\intermediates\pre-dexed\release\okio-1.6.0_74e9327a660b8076b60029338aa44841c307dabc.jar" />
+    </item>
+
+</items>

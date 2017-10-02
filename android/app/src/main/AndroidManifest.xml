@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.iotaddon.goout">
+
+<!-- To auto-complete the email text field in the login form with the user's emails -->
+<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+<uses-permission android:name="android.permission.READ_PROFILE" />
+<uses-permission android:name="android.permission.READ_CONTACTS" />
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+<permission android:name="com.iotaddon.goout.locationapi.maps.permission.MAPS_RECEIVE"
+    android:protectionLevel="signature" />
+
+<uses-permission android:name="com.iotaddon.goout.locationapi.maps.permission.MAPS_RECEIVE" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+
+<uses-feature android:glEsVersion="0x00020000" android:required="true" />
+
+<application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="Go Out"
+    android:supportsRtl="true" android:theme="@style/AppTheme">
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="@string/google_maps_key" />
+
+    <activity android:name=".MainActivity" android:label="Go Out" android:theme="@style/AppTheme.NoActionBar">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity android:name=".ActivityWeather" android:label="Weather Info" />
+    <activity android:name=".ActivityTransportation" android:label="Transportation Info" />
+    <activity android:name=".ActivityMemo" android:label="Memo" />
+    <activity android:name=".ActivityTransportationBus" android:label="Bus Info" />
+    <activity android:name=".ActivityTransportationSubway" android:label="Subway Info" />
+    <activity android:name=".ActivityDeviceSettings" android:label="Setting" />
+    <activity android:name=".ActivityDeviceSettingsSelectLed" android:label="LED Select" />
+    <activity android:name=".ActivityDeviceSettingsConnectWIFI" android:label="WIFI Config" />
+    <activity android:name=".ActivityDeviceSettingsConfigWIFI" android:label="WIFI Config" />
+    <activity android:name=".ActivityInformation" android:label="Info" />
+    <activity android:name=".ActivityMoreConfiguration" android:label="Custom Setting" />
+    <activity android:name=".ActivityDeviceSettingsSelectLedA" android:label="LED A" />
+    <activity android:name=".ActivityDeviceSettingsSelectLedB" android:label="LED B" />
+    <activity android:name=".ActivityDeviceSettingsSelectLedC" android:label="LED C" />
+    <activity android:name=".ActivityTransportationBusInfo" android:label="Bus Info" />
+
+    <service android:name=".MyFirebaseMessagingService">
+        <intent-filter>
+            <action android:name="com.google.firebase.MESSAGING_EVENT" />
+        </intent-filter>
+    </service>
+
+    <service android:name=".MyFirebaseInstanceIDService">
+        <intent-filter>
+            <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+        </intent-filter>
+    </service>
+</application>
+
+</manifest>

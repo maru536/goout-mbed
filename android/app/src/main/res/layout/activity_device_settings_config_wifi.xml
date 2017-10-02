@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_device_settings_config_wifi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iotaddon.goout.ActivityDeviceSettingsConfigWIFI">
+
+    <LinearLayout
+        android:id="@+id/activity_device_settings_config_wifi_container1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:hint="Input WIFI SSID"
+            android:layout_margin="5dp"
+            android:lines="1"
+            android:gravity="center"
+            android:background="@drawable/border_content"/>
+        <EditText
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:lines="1"
+            android:hint="Input WIFI PASSWORD"
+            android:gravity="center"
+            android:background="@drawable/border_content"/>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activity_device_settings_config_wifi_container1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Connect" />
+
+</RelativeLayout>
